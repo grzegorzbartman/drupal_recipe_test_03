@@ -1,0 +1,13 @@
+{
+    "name": "grzegorzbartman/drupal_recipe_test_03",
+    "description": "Drupal Recipe: test 03",
+    "keywords": ["recipe", "Drupal recipes", "drupal recipe"],
+    "type": "drupal-recipe",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Grzegorz Bartman",
+            "role": "Maintainer"
+        }
+    ]
+}
